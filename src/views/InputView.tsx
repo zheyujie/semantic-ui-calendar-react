@@ -194,7 +194,6 @@ class InputView extends React.Component<InputViewProps, any> {
       closeOnMouseLeave,
       onChange,
       onClear,
-      children,
       inlineLabel,
       popupIsClosed,
       mountNode,
