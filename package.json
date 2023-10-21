@@ -40,8 +40,8 @@
   },
   "license": "MIT",
   "peerDependencies": {
-    "react": ">=16.6.0 < 18",
-    "react-dom": ">=16.6.0 < 18",
+    "react": ">=16.6.0 < 19",
+    "react-dom": ">=16.6.0 < 19",
     "semantic-ui-react": ">=0.84.0"
   },
   "devDependencies": {
@@ -56,8 +56,8 @@
     "@babel/register": "^7.22.15",
     "@types/lodash": "^4.14.200",
     "@types/prop-types": "^15.7.9",
-    "@types/react": "^17.0.2",
-    "@types/react-dom": "^17.0.2",
+    "@types/react": "^18.2.31",
+    "@types/react-dom": "^18.2.14",
     "@wojtekmaj/enzyme-adapter-react-17": "^0.8.0",
     "babel-loader": "^9.1.3",
     "babel-plugin-transform-react-handled-props": "^2.1.0",
@@ -71,8 +71,8 @@
     "mkdirp": "^3.0.1",
     "mocha": "^10.2.0",
     "mockdate": "^3.0.5",
-    "react": "^17.0.2",
-    "react-dom": "^17.0.2",
+    "react": "^18.2.0",
+    "react-dom": "^18.2.0",
     "rimraf": "^5.0.5",
     "semantic-ui-react": "^2.1.4",
     "sinon": "^17.0.0",
