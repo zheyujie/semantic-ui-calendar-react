@@ -1,7 +1,7 @@
 {
   "name": "semantic-ui-calendar-react-yz",
   "sideEffects": false,
-  "version": "0.16.6",
+  "version": "0.17.0",
   "description": "date/time picker built from semantic-ui elements",
   "main": "dist/commonjs/index.js",
   "scripts": {
@@ -73,7 +73,7 @@
     "mockdate": "^3.0.5",
     "react": "^18.2.0",
     "react-dom": "^18.2.0",
-    "rimraf": "^5.0.5",
+    "rimraf": "^3.0.2",
     "semantic-ui-react": "^2.1.4",
     "sinon": "^17.0.0",
     "ts-loader": "^9.5.0",
@@ -82,7 +82,7 @@
     "typescript": "^5.2.2",
     "webpack": "^5.89.0",
     "webpack-cli": "^5.1.4",
-    "webpack-dev-server": "^4.15.1"
+    "webpack-dev-server": "^4.9.0"
   },
   "dependencies": {
     "keyboard-key": "^1.1.0",
