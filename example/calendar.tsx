@@ -1,7 +1,5 @@
-import moment from 'moment';
-// import 'moment/locale/ru';
 import React from 'react';
-import ReactDOM from 'react-dom';
+import { createRoot } from 'react-dom/client';
 import {
   Checkbox,
   Form,
@@ -312,7 +310,6 @@ class DateTimeFormInline extends React.Component<any, any> {
   }
 }
 
-ReactDOM.render(
-  <App />,
-  document.getElementById('root'),
-);
+const container = document.getElementById('root');
+const root = createRoot(container!); // createRoot(container!) if you use TypeScript
+root.render(<App />);
