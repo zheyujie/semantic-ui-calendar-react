@@ -64,7 +64,7 @@
     "babel-plugin-transform-react-handled-props": "^2.1.0",
     "babel-plugin-transform-react-remove-prop-types": "^0.4.24",
     "babel-preset-airbnb": "^5.0.0",
-    "chai": "^4.3.10",
+    "chai": "^5.1.2",
     "cpy-cli": "^5.0.0",
     "env-cmd": "^10.1.0",
     "enzyme": "^3.11.0",
